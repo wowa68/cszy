@@ -209,6 +209,8 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226605/100001000000000600000000015
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" group-title="地方",潮州民生
 http://120.87.19.109/PLTV/88888973/224/3221226707/371689860.smil/01.m3u8?fmt=ts2hls&accountinfo=fNQ4o7cVx9loISe75F4Q8uFNVbGXaIhYPaSNSiRV1HxAZFsA6zXZ4XzuulG2%2BtRumCJJ3JBelxpht7rV3AyXlfGw3jfiYNtZmmptdW1UL%2BlGAMCQWKP%2FVYv0YgXiGkmJ%3A20261108090419%2C1%2CEND&GuardEncType=2fNQ4o7cVx9loISe75F4Q
 
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="地方",梨园频道
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 
 
 
