@@ -2,40 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东体育 高清
 http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东珠江 高清
-http://120.87.4.6:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,15614,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkrk0oGNvEfdCtJuc3+1JIh:20181110091937,END&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CGTN
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CGTN2
-https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV17
-http://120.87.19.109:80/PLTV/88888973/224/3221226566/10000100000000060000000001504118_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xtFnctJrkiKHr8oB0uQYIlwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-http://120.87.19.109:80/PLTV/88888973/224/3221226661/10000100000000060000000002070294_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xoj3A5/8wu6VAt6xdVUR8JAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",321
-http://120.87.19.109:80/PLTV/88888973/224/3221225684/10000100000000060000000000334089_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x2mVHY7ohmnzRi8/gbtm59QWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-http://120.87.19.109:80/PLTV/88888973/224/3221225713/10000100000000060000000000334649_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xSfxiAMTTPW0lA7dr5bVLyAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",322
-http://120.87.19.109:80/PLTV/88888973/224/3221225765/10000100000000060000000000337113_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xO19uH5hdTnCFTMsbtW1pkQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-http://120.87.19.109:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x+CS96WyrUxGNCtCCya4wzgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-http://120.87.19.109:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x1QloRSpR2tmk4KRoCuDmyQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",323
-http://112.89.121.21:80/PLTV/88888973/224/3221225713/10000100000000060000000000334649_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkN8TjPTKRAZyLEJcForH/D:20181110091937,END&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",324
-http://120.87.19.109:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xxwqT5CsuIcla/KR82wV4KQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",326
-http://120.87.19.109:80/PLTV/88888973/224/3221225723/10000100000000060000000000334156_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xjwtnHiLrWwKTr42HX8EnVQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",326
-http://120.87.19.109:80/PLTV/88888973/224/3221225752/10000100000000060000000000334591_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xcGM7RQD7j1W6DvGC0EEQngWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",327
 http://120.87.4.11:80/PLTV/88888973/224/3221226159/10000100000000060000000001091893_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown9Xi5nSatK6uBs195xyh0L:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",328
